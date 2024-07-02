@@ -10,7 +10,8 @@ The final version is published in D.-M. Chian, C.-K. Wen, C.-H. Wu, F.-K. Wang a
 ## Requirements
 - Matlab (R2022b)
 
-## Hint: If this code is applied in different cases, the transformation of polarization for the scattered and reflected waves and their tuning coefficients must be redefined. They are described in equations [22] and [23] of our article.
+## Hint
+- If this code is applied in different cases, the transformation of polarization for the scattered and reflected waves and their tuning coefficients must be redefined. They are described in equations [22] and [23] of our article.
 
 ## File 1: RIS element (Consideration of polarization and switch impairments)
 
