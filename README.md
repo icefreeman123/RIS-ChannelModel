@@ -10,6 +10,8 @@ The final version is published in D.-M. Chian, C.-K. Wen, C.-H. Wu, F.-K. Wang a
 ## Requirements
 - Matlab (R2022b)
 
+## Hint: If this code is applied in different cases, the transformation of polarization for the scattered and reflected waves and their tuning coefficients must be redefined. They are described in equations [22] and [23] of our article.
+
 ## File 1: RIS element (Consideration of polarization and switch impairments)
 
 ### Step1. Download the main script, functions, and data
@@ -43,8 +45,6 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 
 ### Step2. Run the main script 1 and 2, corresponding to Fig. 12(a) and (b), respectively. The results with one of controlling algorithms will be obtained.
 (Please choose the controlling algorithm in the 43-th line. Ex.: AntData.CtlMethod = 'Perfect_beam'; is based on perfect beamforming.) <be>
-
-### Hint: If this code is applied in different cases, the transformation of polarization for the scattered and reflected waves and their tuning coefficients must be redefined. They are described in equations [22] and [23] of our article.
 
 ### Results
 The following results are reproduced from Fig. 12(a) of our paper: <br>
